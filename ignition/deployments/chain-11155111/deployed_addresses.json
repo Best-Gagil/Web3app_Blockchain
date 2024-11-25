@@ -1,0 +1,7 @@
+{
+  "TokenContractModule#TokenContract": "0x498bC7E4a18AE405CA00E957C67093D0d7f75C58",
+  "exchangeContractModule#ExchangeContract": "0xB9D5df0ceACb135CdEE5141c2259CFC23c147714",
+  "exchangeContractModule2#ExchangeContract": "0x59c2014D51313Df0278719133CF2a281Fc69c0c0",
+  "exchangeContractModule3#ExchangeContract": "0x3F4Db56Ce254EcD6820992d9F5EcA3BA60Cf0805",
+  "exchangeContractModule4#ExchangeContract": "0xE12D8CEf088dCdE0aB0F6deD209F4aE676f4B4a3"
+}
